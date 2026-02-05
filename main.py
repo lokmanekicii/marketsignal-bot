@@ -4,7 +4,7 @@ import os
 from telegram import Bot
 
 # ===== AYARLAR =====
-TOKEN = os.getenv("8375136572:AAGeZAaukMwqzf2KvO-TNDc65j9FSWm7fsY")
+TOKEN = os.getenv("BOT_TOKEN")
 CHANNEL = "@marketsignal_live"
 
 SPONSOR_TEXT = "🤝 Sponsor: YourBrand | Reklam & işbirliği için DM"
